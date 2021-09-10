@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-Tutorial-04</string>
+    <string name="activity_two">Activity Two</string>
+    <string name="launch_activity_one">LAUNCH ACTIVITY ONE</string>
+    <string name="button_rt">Button rt</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>

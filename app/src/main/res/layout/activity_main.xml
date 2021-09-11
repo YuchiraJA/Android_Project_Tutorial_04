@@ -10,7 +10,7 @@
         android:id="@+id/tv_message1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Activity One"
+        android:text="@string/activity_one"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -24,12 +24,12 @@
         android:id="@+id/btn_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="LAUNCH ACTIVITY TWO"
+        android:text="@string/launch_activity_two"
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.546" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
